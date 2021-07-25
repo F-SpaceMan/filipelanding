@@ -4,11 +4,6 @@ import { useHistory, Link } from 'react-router-dom';
 
 function Home() {
 
-    function handleChangePage(){
-        const history = useHistory;
-        history.push("/contact");
-    }
-
   return (
         
         <Link to='/contact' >
