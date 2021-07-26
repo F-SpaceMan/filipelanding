@@ -5,7 +5,7 @@
     background-color: #4327df96;
   }
   
-  .subscribe-wrapper {
+  .subscribe-wrapper h1 {
     position: relative;
     align-self: center;
     height: 500px;
@@ -37,6 +37,19 @@
 
 .submit-btn {
     position: absolute;
+    right: 46%;
+    border-radius: 30px;
+    background-color: #605f63;
+    color: #FFF;
+    padding: 12px;
+    font-size: 12px;
+    font-weight: bold;
+    letter-spacing: 2px;
+    cursor: pointer;
+  }
+  .submit-btnn {
+    position: relative;
+    bottom: -120px;
     right: 46%;
     border-radius: 30px;
     background-color: #605f63;
