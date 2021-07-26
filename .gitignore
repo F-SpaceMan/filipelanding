@@ -8,7 +8,7 @@ dependencies
 /testing
 /coverage
 
-# production
+production
 build
 
 wmisc
